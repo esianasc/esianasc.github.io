@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://esianasc.github.io/sitemap
+Sitemap: https://esianasc.github.io/app/sitemap
+Sitemap: https://esianasc.github.io/assets/sitemap
+Sitemap: https://esianasc.github.io/css/sitemap
+Sitemap: https://esianasc.github.io/includes/sitemap
+Sitemap: https://esianasc.github.io/item/sitemap
+Sitemap: https://esianasc.github.io/src/sitemap
